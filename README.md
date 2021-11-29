@@ -1,5 +1,9 @@
-# README
+## README
+###Finance Tracker
+This is the Finance Tracker App from the Complete Ruby on Rails Developer Course
 
+---
+### Extra stuff from Rails Generator
 This README would normally document whatever steps are necessary to get the
 application up and running.
 

@@ -60,3 +60,6 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem 'rubocop'
 gem 'rubocop-rails'
+
+# Use Devise for authentication
+gem 'devise'

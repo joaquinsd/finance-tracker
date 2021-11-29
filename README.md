@@ -1,5 +1,5 @@
 ## README
-###Finance Tracker
+### Finance Tracker
 
 This is the Finance Tracker App from the Complete Ruby on Rails Developer Course
 
